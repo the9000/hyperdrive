@@ -17,14 +17,13 @@ npm install hyperdrive
 APIs/protocols might be still break.
 
 Main things missing are:
-
-- [ ] Storing downloaded files as actual files (not in leveldb doh)
-- [ ] Full documention of the apis/protocols
-- [ ] Tit-for-tat swarm logic
-- [ ] peer discovery events so a dht would know what to look for
-- [ ] Tests for internal logic
-- [ ] Move archive/file abstractions to new modules
-- [x] A bit of refactoring
+<br/> :white_medium_square: Storing downloaded files as actual files (not in leveldb doh)
+<br/> :white_medium_square: Full documention of the apis/protocols
+<br/> :white_medium_square: Tit-for-tat swarm logic
+<br/> :white_medium_square: peer discovery events so a dht would know what to look for
+<br/> :white_medium_square: Tests for internal logic
+<br/> :white_medium_square: Move archive/file abstractions to new modules
+<br/> :white_check_mark: A bit of refactoring
 
 ## Usage
 
